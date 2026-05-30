@@ -32,7 +32,7 @@ function ForgotPassword() {
 
         const { data } =
           await axios.post(
-            "https://smart-ai-backend-2bue.onrender.com/api/auth/forgot-password",
+            "https://smart-ai-backend-f9fd.onrender.com/api/auth/forgot-password",
             { email }
           );
 

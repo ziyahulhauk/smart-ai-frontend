@@ -52,7 +52,7 @@ function ResetPassword() {
 
         const { data } =
           await axios.post(
-            `https://smart-ai-backend-2bue.onrender.com/api/auth/reset-password/${token}`,
+            `https://smart-ai-backend-f9fd.onrender.com/api/auth/reset-password/${token}`,
             {
               password,
             }

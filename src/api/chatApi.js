@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API =
-  "https://smart-ai-backend-0i0y.onrender.com/api/chat";
+  "https://smart-ai-backend-2bue.onrender.com/api/chat";
 
 const getConfig = () => {
   const userInfo =
